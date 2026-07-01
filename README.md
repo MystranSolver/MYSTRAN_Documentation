@@ -28,5 +28,6 @@ In this folder, there are various documents that are related to MYSTRAN.
 
 ## Release Notes
 
-TBD
+Current release notes are stored here:
+https://github.com/MystranSolver/MYSTRANSolver/releases
 

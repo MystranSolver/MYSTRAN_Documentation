@@ -1,5 +1,4 @@
-In Work
+Release Notes are no longer stored in the Documentation repository.
 
-Will contain an MD of the release notes.
-
-For now, there are some Word docs that may be relevant.
+Release notes are now stored here:
+https://github.com/MystranSolver/MYSTRANSolver/releases
